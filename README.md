@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexander Urban</h1>
 <h3 align="center">A passionate software developer from Germany</h3>
 
-- Feel free to check out my app in the <a href="https://play.google.com/store/apps/details?id=com.dhapps.remote">Play Store</a> (It´s an app to use your phone as a RGB Strip Remote)
-- 🔭 I’m currently working on **another Flutter app.** <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/>
+- ⚡ Feel free to check out my app in the <a href="https://play.google.com/store/apps/details?id=com.dhapps.remote">Play Store</a> (It´s an app to use your phone as a RGB Strip Remote)
+- 🔭 I’m currently working on **another app using Flutter.** <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
